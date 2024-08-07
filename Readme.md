@@ -83,7 +83,7 @@ The relational schema outlines the structure of the database, showing how the ta
 Ensure you have the following installed on your local development environment:
 
 - Node.js (version 14.x or higher)
-- MySQL
+- MySQL 
 - npm (Node Package Manager)
 
 ### Installation and Setup
