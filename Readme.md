@@ -8,9 +8,8 @@ The Hospital Management System (HMS) is a comprehensive solution designed to man
 
 This project leverages the following technologies:
 
-- **Frontend:** React.js
 - **Backend:** Node.js, Express.js
-- **Database:** MySQL
+- **Database:** postgreSQL
 
 ## System Architecture
 
@@ -42,39 +41,6 @@ The relational schema outlines the structure of the database, showing how the ta
 - **Schedule Management:** The system integrates the doctor’s schedule, preventing double-booking and respecting breaks.
 - **Patient Information Access:** Doctors can access patient profiles, view medical histories, and update records as needed.
 - **Diagnosis and Prescription:** Doctors can provide and modify diagnoses and prescriptions directly through the system.
-
-## Screenshots
-
-### Patient Interface
-
-1. **Patient Registration:**  
-   ![Patient Registration](Screenshots/PatientRegistration.png)
-
-2. **Patient Home Screen:**  
-   ![Patient Home](Screenshots/PatientHome.png)
-
-3. **Viewing Medical History:**  
-   ![Patient Viewing History](Screenshots/PatientHistory.png)
-
-4. **Appointment Scheduling:**  
-   ![Patient Scheduling Appointment](Screenshots/SchedulingAppt.png)
-
-### Doctor Interface
-
-1. **Doctor Registration:**  
-   ![Doctor Registration](Screenshots/DoctorRegistration.png)
-
-2. **Doctor Home Screen:**  
-   ![Doctor Home](Screenshots/DoctorHome.png)
-
-3. **Viewing Appointments:**  
-   ![Doctor Viewing Appointment](Screenshots/DoctorViewingAppt.png)
-
-4. **Providing Diagnosis:**  
-   ![Doctor Giving Diagnosis](Screenshots/Diagnosis.png)
-
-5. **Viewing Patient History:**  
-   ![Doctor Viewing Patient History](Screenshots/ViewingPatientHistory.png)
 
 ## Getting Started
 
