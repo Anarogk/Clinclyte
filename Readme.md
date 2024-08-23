@@ -17,7 +17,7 @@ This project leverages the following technologies:
 
 The Entity-Relationship (ER) diagram illustrates the relationships between the different entities in the system, such as Patients, Doctors, Appointments, and Medical Records.
 
-![ER Diagram](flowchart.png)
+![ER Diagram](./Flowchart.png)
 
 ## Features
 
