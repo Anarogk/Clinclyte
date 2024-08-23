@@ -77,6 +77,3 @@ Ensure you have the following installed on your local development environment:
      ```bash
      npm start
      ```
-
-5. **Access the Application:**
-   - Open your web browser and navigate to `http://localhost:3000`.
