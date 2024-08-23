@@ -17,13 +17,7 @@ This project leverages the following technologies:
 
 The Entity-Relationship (ER) diagram illustrates the relationships between the different entities in the system, such as Patients, Doctors, Appointments, and Medical Records.
 
-![ER Diagram](SchemasER/myer.png)
-
-### Relational Schemas
-
-The relational schema outlines the structure of the database, showing how the tables are related through keys and constraints.
-
-![Relational Schema](SchemasER/schema.png)
+![ER Diagram](flowchart.png)
 
 ## Features
 
